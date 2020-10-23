@@ -13,27 +13,27 @@ class UserSeeder extends Seeder
     {
         $data = [
             [
-                'lname'    => 'Elle',
-                'fname'    => 'Pedoch',
-                'address'  => 'Potuhan, Tubigon, Bohol',
-                'phone'    => '0912.4974.167',
-                'email'    => 'ellepedoch@gmail.com',
+                'lname'    => 'Palapar',
+                'fname'    => 'albert',
+                'address'  => 'Cabulijan, Tubigon, Bohol',
+                'phone'    => '0919.4974.167',
+                'email'    => 'johnalbert@gmail.com',
                 'password' => bcrypt('password123')
             ],
             [
-                'lname'    => 'Howard',
-                'fname'    => 'Glenn',
-                'address'  => 'Cabulijan, Tubigon, Bohol',
-                'phone'    => '0932.3415.926',
-                'email'    => 'glennhoward12@gmail.com',
+                'lname'    => 'dhain',
+                'fname'    => 'Taguines',
+                'address'  => 'Buenos Aries, Tubigon, Bohol',
+                'phone'    => '0912.3415.333',
+                'email'    => 'dhainkarl@gmail.com',
                 'password' => bcrypt('passwrd123')
             ],
             [
-                'lname'    => 'Lillard',
-                'fname'    => 'Dwane',
-                'address'  => 'Centro,Tubigon, Bohol',
-                'phone'    => '0921.5621.145',
-                'email'    => 'Lillardwane@gmail.com',
+                'lname'    => 'jay',
+                'fname'    => 'Podador',
+                'address'  => 'Cawayanan,Tubigon, Bohol',
+                'phone'    => '0928.4521.145',
+                'email'    => 'jaypodador@gmail.com',
                 'password' => bcrypt('pasword123')
             ],
         ];
